@@ -146,10 +146,10 @@ h1 {
   width: 100%;
 }
 .header-back.one {
-  background: url('../img/header_one.jpeg') 50% 0 no-repeat;
+  background: url('../img/header_one.jpg') 50% 0 no-repeat;
 }
 .header-back.two {
-  background: url('../img/header_4.jpeg') 50% 0 no-repeat;
+  background: url('../img/header_4.jpg') 50% 0 no-repeat;
 }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */
